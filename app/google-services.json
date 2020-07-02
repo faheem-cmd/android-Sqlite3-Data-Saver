@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023742184524",
+    "firebase_url": "https://dataapp-13511.firebaseio.com",
+    "project_id": "dataapp-13511",
+    "storage_bucket": "dataapp-13511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023742184524:android:8ed0b4f1357ebd6cc838e9",
+        "android_client_info": {
+          "package_name": "waves.blogspot.dataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023742184524-gf73r8np88uaa8evpruqgl15jks309rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "waves.blogspot.dataapp",
+            "certificate_hash": "1b323726d702f8aac2afc44ca9bfe3053b727886"
+          }
+        },
+        {
+          "client_id": "1023742184524-5t17dpmdoe09b220v94fhpbqt7qo17gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0YqFcMsj4MLucpH3ryx-wuj4KarInnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023742184524-5t17dpmdoe09b220v94fhpbqt7qo17gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
